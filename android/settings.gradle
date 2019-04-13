@@ -1,0 +1,3 @@
+rootProject.name = 'ScaleSlider'
+
+include ':app'
